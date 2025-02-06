@@ -112,6 +112,9 @@ The methodology used for performing narrative classification for both Hindi and 
 
 ![Narrative Classification Overview](narrative_classification-prasun/img/hi_eng.png)
 
+[View Project Report (PDF)](Poster_Presentation_Finalized.pdf)
+
+
 For a detailed explanation of the architecture used, please refer to the research papers:  
 
 - [📄 Hierarchy-aware Label Semantics Matching Network for Hierarchical Text Classification](https://aclanthology.org/2021.acl-long.337/)  
