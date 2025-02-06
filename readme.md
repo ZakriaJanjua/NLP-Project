@@ -1,5 +1,7 @@
 # LAB REPORT: HIERARCHICAL MULTI-LABEL NARRATIVE CLASSIFICATION ON ONLINE NEWS
 
+[View Project Poster (PDF)](Poster_Presentation_Finalized.pdf)
+
 ## 1. Introduction
 - **Project Focus:** Multilingual narrative classification in English and Hindi.
 - **Purpose:** Build robust models for hierarchical, multi-label, multi-class narrative classification.
@@ -111,9 +113,6 @@
 The methodology used for performing narrative classification for both Hindi and English is summarized below:
 
 ![Narrative Classification Overview](narrative_classification-prasun/img/hi_eng.png)
-
-[View Project Report (PDF)](Poster_Presentation_Finalized.pdf)
-
 
 For a detailed explanation of the architecture used, please refer to the research papers:  
 
